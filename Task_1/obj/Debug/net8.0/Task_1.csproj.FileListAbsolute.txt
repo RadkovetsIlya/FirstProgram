@@ -12,3 +12,4 @@ C:\Users\Илья\Desktop\GIT\Program\Lesson_1\Task_1\obj\Debug\net8.0\refint\Ta
 C:\Users\Илья\Desktop\GIT\Program\Lesson_1\Task_1\obj\Debug\net8.0\Task_1.pdb
 C:\Users\Илья\Desktop\GIT\Program\Lesson_1\Task_1\obj\Debug\net8.0\Task_1.genruntimeconfig.cache
 C:\Users\Илья\Desktop\GIT\Program\Lesson_1\Task_1\obj\Debug\net8.0\ref\Task_1.dll
+C:\Users\Илья\Desktop\GIT\Program\Lesson_1\Task_1\obj\Debug\net8.0\Task_1.sourcelink.json
